@@ -1,2 +1,3 @@
-# raximan-keeps-going with readme-first edit_now
-READ_ME branch will keep going with the "readme-first-edit_now"
+
+# raximan-keeps-going with main
+Raximan will keep this as a main file in this step
